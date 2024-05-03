@@ -11,3 +11,4 @@ abstract class AppTextStyles {
     fontWeight: FontWeight.w600,
   );
 }
+
