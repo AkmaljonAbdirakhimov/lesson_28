@@ -66,30 +66,22 @@ class MyHomePage extends StatelessWidget {
             children: [
               Text('Bugungi Mavzu', style: AppTextStyles.headline),
               Text(
-                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.
-          
-          Id ex laboris ipsum elit excepteur enim consectetur sit incididunt ad veniam laborum qui. Eu labore non est veniam sint voluptate. Sunt aliqua ipsum Lorem velit duis. In et aliqua velit fugiat sunt mollit aliqua dolor proident duis ut consectetur nulla. Incididunt dolore nulla tempor ex ut amet Lorem id et dolor aute mollit incididunt. Ut ut ea ad fugiat do nisi aute commodo incididunt quis.''',
+                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.''',
               ),
               SizedBox(height: 20),
               Text('Bugungi Mavzu', style: AppTextStyles.headline),
               Text(
-                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.
-          
-          Id ex laboris ipsum elit excepteur enim consectetur sit incididunt ad veniam laborum qui. Eu labore non est veniam sint voluptate. Sunt aliqua ipsum Lorem velit duis. In et aliqua velit fugiat sunt mollit aliqua dolor proident duis ut consectetur nulla. Incididunt dolore nulla tempor ex ut amet Lorem id et dolor aute mollit incididunt. Ut ut ea ad fugiat do nisi aute commodo incididunt quis.''',
+                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.''',
               ),
               SizedBox(height: 20),
               Text('Bugungi Mavzu', style: AppTextStyles.headline),
               Text(
-                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.
-          
-          Id ex laboris ipsum elit excepteur enim consectetur sit incididunt ad veniam laborum qui. Eu labore non est veniam sint voluptate. Sunt aliqua ipsum Lorem velit duis. In et aliqua velit fugiat sunt mollit aliqua dolor proident duis ut consectetur nulla. Incididunt dolore nulla tempor ex ut amet Lorem id et dolor aute mollit incididunt. Ut ut ea ad fugiat do nisi aute commodo incididunt quis.''',
+                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.''',
               ),
               SizedBox(height: 20),
               Text('Bugungi Mavzu', style: AppTextStyles.headline),
               Text(
-                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.
-          
-          Id ex laboris ipsum elit excepteur enim consectetur sit incididunt ad veniam laborum qui. Eu labore non est veniam sint voluptate. Sunt aliqua ipsum Lorem velit duis. In et aliqua velit fugiat sunt mollit aliqua dolor proident duis ut consectetur nulla. Incididunt dolore nulla tempor ex ut amet Lorem id et dolor aute mollit incididunt. Ut ut ea ad fugiat do nisi aute commodo incididunt quis.''',
+                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.''',
               ),
             ],
           ),
@@ -116,30 +108,22 @@ class SecondPage extends StatelessWidget {
             children: [
               Text('Bugungi Mavzu', style: AppTextStyles.headline),
               Text(
-                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.
-          
-          Id ex laboris ipsum elit excepteur enim consectetur sit incididunt ad veniam laborum qui. Eu labore non est veniam sint voluptate. Sunt aliqua ipsum Lorem velit duis. In et aliqua velit fugiat sunt mollit aliqua dolor proident duis ut consectetur nulla. Incididunt dolore nulla tempor ex ut amet Lorem id et dolor aute mollit incididunt. Ut ut ea ad fugiat do nisi aute commodo incididunt quis.''',
+                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.''',
               ),
               SizedBox(height: 20),
               Text('Bugungi Mavzu', style: AppTextStyles.headline),
               Text(
-                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.
-          
-          Id ex laboris ipsum elit excepteur enim consectetur sit incididunt ad veniam laborum qui. Eu labore non est veniam sint voluptate. Sunt aliqua ipsum Lorem velit duis. In et aliqua velit fugiat sunt mollit aliqua dolor proident duis ut consectetur nulla. Incididunt dolore nulla tempor ex ut amet Lorem id et dolor aute mollit incididunt. Ut ut ea ad fugiat do nisi aute commodo incididunt quis.''',
+                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.''',
               ),
               SizedBox(height: 20),
               Text('Bugungi Mavzu', style: AppTextStyles.headline),
               Text(
-                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.
-          
-          Id ex laboris ipsum elit excepteur enim consectetur sit incididunt ad veniam laborum qui. Eu labore non est veniam sint voluptate. Sunt aliqua ipsum Lorem velit duis. In et aliqua velit fugiat sunt mollit aliqua dolor proident duis ut consectetur nulla. Incididunt dolore nulla tempor ex ut amet Lorem id et dolor aute mollit incididunt. Ut ut ea ad fugiat do nisi aute commodo incididunt quis.''',
+                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.''',
               ),
               SizedBox(height: 20),
               Text('Bugungi Mavzu', style: AppTextStyles.headline),
               Text(
-                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.
-          
-          Id ex laboris ipsum elit excepteur enim consectetur sit incididunt ad veniam laborum qui. Eu labore non est veniam sint voluptate. Sunt aliqua ipsum Lorem velit duis. In et aliqua velit fugiat sunt mollit aliqua dolor proident duis ut consectetur nulla. Incididunt dolore nulla tempor ex ut amet Lorem id et dolor aute mollit incididunt. Ut ut ea ad fugiat do nisi aute commodo incididunt quis.''',
+                '''Proident pariatur anim sunt deserunt ullamco magna reprehenderit Lorem esse consequat nulla. Sint incididunt sunt adipisicing magna. Lorem minim veniam occaecat do adipisicing dolor enim adipisicing. Qui veniam officia labore et ex cillum fugiat ea sunt pariatur.''',
               ),
             ],
           ),
